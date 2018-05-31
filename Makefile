@@ -1,7 +1,7 @@
 all: build
 
 build:
-	@docker build --rm=false --tag=${USER}/activiti .
+	@docker build --rm=false --tag=nmr/activiti .
 
 test:
 	build
