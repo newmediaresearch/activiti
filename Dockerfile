@@ -1,6 +1,9 @@
 #
 # Ubuntu 14.04 with activiti Dockerfile
 #
+# Adapted from Frank Wang "eternnoir@gmail.com"
+# https://github.com/eternnoir/activiti/blob/master/Dockerfile
+#
 FROM openjdk:7
 MAINTAINER David Moss "david@nmr.com"
 
